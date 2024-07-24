@@ -23,17 +23,17 @@ function about({ topics }) {
         <h2 className="text-3xl font-semibold text-gray-700 py-4 dark:text-gray-200">
           Hi,{" "}
           <span className="bg-indigo-400 text-white rounded px-1 dark:bg-indigo-500">
-            I’m Soumyajit
+            I’m Snehin
           </span>{" "}
           . Nice to meet you.
         </h2>
         <p className="text-gray-600 mt-4 dark:text-indigo-200">
-          I am a self taught developer currently pursuing IMSC in Maths and
-          Computing in BIT Mesra. My field of Interest's are building new Web
-          Technologies and Products and also in areas related to Deep Learning
-          and Natural Launguage Processing.
+          I am an Aspiring Data Scientist with an interest in computers, math, physics, photography and philosophical discussions.
+          <br />
+          I am working on this page to post what's going on in my head. The idea is to post weekly updates on what I've done and what I've learned over the last week.
         </p>
-
+        <!--
+        
         <div className="text-center pt-8">
           <button className="bg-indigo-500 px-3 py-1 font-semibold text-white inline-flex items-center space-x-2 rounded dark:bg-indigo-600">
             <FaLaptop />
@@ -45,7 +45,7 @@ function about({ topics }) {
               See My Works
             </a>
           </button>
-
+          -->
           <button className="bg-indigo-500 px-3 py-1 font-semibold text-white inline-flex items-center space-x-2 rounded ml-3 dark:bg-indigo-600">
             <FaTwitter />
             <a
