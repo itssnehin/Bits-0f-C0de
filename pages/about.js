@@ -32,7 +32,7 @@ function about({ topics }) {
           <br />
           I am working on this page to post what's going on in my head. The idea is to post weekly updates on what I've done and what I've learned over the last week.
         </p>
-        <!--
+        /*
         
         <div className="text-center pt-8">
           <button className="bg-indigo-500 px-3 py-1 font-semibold text-white inline-flex items-center space-x-2 rounded dark:bg-indigo-600">
@@ -45,7 +45,7 @@ function about({ topics }) {
               See My Works
             </a>
           </button>
-          -->
+        */
           <button className="bg-indigo-500 px-3 py-1 font-semibold text-white inline-flex items-center space-x-2 rounded ml-3 dark:bg-indigo-600">
             <FaTwitter />
             <a
