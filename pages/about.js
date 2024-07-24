@@ -2,6 +2,7 @@ import Navbar from "../Components/Navbar";
 import Footer from "../Components/Footer";
 import { FaLaptop, FaTwitter } from "react-icons/fa";
 import { getAllTopics } from "../Lib/Data";
+import { FiLinkedin } from "react-icons/fi";
 
 export const getStaticProps = () => {
   const allTopics = getAllTopics();
@@ -47,12 +48,12 @@ function about({ topics }) {
           </button>
         */
           <button className="bg-indigo-500 px-3 py-1 font-semibold text-white inline-flex items-center space-x-2 rounded ml-3 dark:bg-indigo-600">
-            <FaTwitter />
+            <FiLinkedin />
             <a
-              className="twitter-follow-button"
+              className="linkedin-button"
               rel="noopener noreferrer"
               target="_blank"
-              href="https://twitter.com/soumyajit4419"
+              href="https://www.linkedin.com/in/snehin-kukreja/"
             >
               Follow Me
             </a>
