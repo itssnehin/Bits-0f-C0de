@@ -32,7 +32,7 @@ function about({ topics }) {
           I am an Aspiring Data Scientist with an interest in computers, math, physics, photography and philosophical discussions.
           <br />
           <br />
-          I am working on this page to post what's going on in my head. The idea is to post weekly updates on what I've done and on what I've learned over the last week.
+          I am working on this page to post what's going on in my head, because I don't really know what I am waffling about and I need to have some coherent thoughts. The idea is to post updates every fortnight on what I've done and on what I've learned over the last week.
         </p>
         <div className="text-center pt-8">
 
